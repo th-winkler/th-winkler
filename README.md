@@ -7,5 +7,3 @@
 - 🌱 I’m currently learning about **Cloud Infrastructure using Terraform (IaC)**
 
 - 💬 Ask me all about **superfoods**
-  
-- 📫 How to reach me: thwineu@gmail.com, https://www.linkedin.com/in/thwineu/
